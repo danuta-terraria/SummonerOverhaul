@@ -31,8 +31,8 @@ namespace SummonerOverhaul.Projectiles
 			else
 			{
 				player.DelBuff(buffIndex);
-				buffIndex--;
-			}
+                buffIndex--;
+            }
 
 
 		}
@@ -137,9 +137,9 @@ namespace SummonerOverhaul.Projectiles
 			// This is the "active check", makes sure the minion is alive while the player is alive, and despawns if not
 			if (player.dead || !player.active)
 			{
-				player.ClearBuff(BuffType<CrystalBuff>());
+				player.ClearBuff(BuffType<FlyingFoxBuff>());
 			}
-			if (player.HasBuff(BuffType<CrystalBuff>()))
+			if (player.HasBuff(BuffType<FlyingFoxBuff>()))
 			{
 				projectile.timeLeft = 2;
 			}
