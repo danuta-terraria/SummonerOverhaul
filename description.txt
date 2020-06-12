@@ -1,0 +1,45 @@
+Summoner Overhaul is a quality-of-life mod for the often neglected summoner class.
+
+It focuses primarily on the early game where there are very few options for summoners.
+
+It introduces one pre-hardmode accessorry, two ultimate accessories, two pre-hardmode armours, two pre-hardmode staffs, and three hardmode staffs.
+
+It will also make the finch staff craftable when it is ported to tModLoader 1.4
+
+
+Accessories:
+============
+Evocation Pendant: Ruby + 5 Silver Bars + Chain
+
+Evocation Scarab: Evocation Pendant + Papyrus Scarab
+
+Evocation Emblem: Evocation Scarab + Summoner Emblem
+
+
+Armour sets:
+============
+Starfall (1 defense, +1 max minion, Set bonus: 2.5% increased summon damage)
+
+Head: 25 Wood + 15 Fallen Stars
+Body: 30 Wood + 20 Fallen Stars
+Legs: 20 Wood + 10 Fallen Stars
+
+
+Necromantic Robes (2 defense, +2 max minion, Set bonus: 5% increased summon damage)
+
+Head: 20 Silk + Forbidden Thread
+Body: 30 Silk + Forbidden Thread
+Legs: 15 Silk + Forbidden Thread
+
+
+Staffs:
+=======
+Jungle Bat Staff (15 damage): 25 Rich Mahogany + 5 Bat Tooth (dropped from Jungle Bats)
+
+Skull Staff: 30 Bone + Skull Totem (dropped from Skeletron)
+
+Living Crystal Staff: Crystal Staff Base + 25 Crystal Shards
+
+Flying Fox Staff: Dropped from Giant Flying Foxes (Jungle, Night)
+
+Nature Spirit Staff: 30 Essence of Nature (Dropped from Hardmode Underground Jungle enemies) + 5 Chlorophyte Bars + 10 Ectoplasm
